@@ -1,7 +1,6 @@
 # 🧠 Match Case Command Center
 
 A simple Python console app that uses `match-case` (Python 3.10+) to perform different tasks based on user input.
-
 ## 💡 Features
 
 - 👋 Greet the user in different languages (English, Urdu, Hindi, Japanese, Korean, Arabic)
